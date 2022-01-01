@@ -2,7 +2,6 @@
 
 
 - 🌱 I’m currently learning C++
-- 🤔 I’m looking for help with 
-- 📫 You can reach me on discord: ZgniłyRzepa#
+- 📫 You can reach me on discord: ZgniłyRzepa#5993
 - 😄 Pronouns: he/him
 - 💎 Co-founder of NRD Games
